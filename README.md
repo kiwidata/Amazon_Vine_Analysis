@@ -7,7 +7,7 @@ Extract one of the 50 datasets, transform the data, connect to an AWS RDS instan
 1) There were 613 paid vine reviews, and 64968 unpaid vine reviews.
 2) There were 222 "5 stars" from paid Vine reviews, and 30543 "5 stars" for non-Vine reviews.
 3) 36.21% of Vine reviews were 5 stars. 47.01% of non-Vine reviews were 5 stars.
-4) 
+
 ![vine reviews](https://user-images.githubusercontent.com/111706055/208351761-66aee671-5e14-4378-8941-868d83e2f23f.png)
 
 ## Summary 
